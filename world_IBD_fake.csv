@@ -1,0 +1,41 @@
+Index,Country,ISO2,iso_a3,UN,studytype,age,IBDtype,datatype
+1,Albania,AL,ALB,8,confimed,ped,all,individual
+2,Argentina,AR,ARG,32,surveil,adult,all,individual
+3,Australia,AU,AUS,36,confimed,elderly,all,individual
+4,Austria,AT,AUT,40,surveil,ped,all,individual
+5,Belgium,BE,BEL,56,confimed,adult,CD,individual
+6,Belize,BZ,BLZ,84,surveil,elderly,all,individual
+7,Benin,BJ,BEN,204,confimed,ped,UC,individual
+8,Bhutan,BT,BTN,64,surveil,adult,all,aggregate
+9,Brazil,BR,BRA,76,confimed,elderly,all,aggregate
+10,Bulgaria,BG,BGR,100,surveil,ped,all,aggregate
+11,Burundi,BI,BDI,108,confimed,adult,CD,individual
+12,Canada,CA,CAN,124,surveil,elderly,all,individual
+13,Central African Republic,CF,CAF,140,confimed,ped,all,individual
+14,Chile,CL,CHL,152,surveil,adult,all,individual
+15,China,CN,CHN,156,confimed,elderly,UC,individual
+16,"Hong Kong, SAR China",HK,HKG,344,surveil,ped,all,aggregate
+17,Denmark,DK,DNK,208,confimed,adult,CD,individual
+18,Egypt,EG,EGY,818,surveil,elderly,all,individual
+19,Finland,FI,FIN,246,confimed,ped,all,individual
+20,France,FR,FRA,250,surveil,adult,all,individual
+21,Germany,DE,DEU,276,confimed,elderly,all,individual
+22,Hungary,HU,HUN,348,surveil,ped,all,individual
+23,Iceland,IS,ISL,352,confimed,adult,all,individual
+24,India,IN,IND,356,surveil,elderly,all,individual
+25,Israel,IL,ISR,376,confimed,ped,CD,aggregate
+26,Italy,IT,ITA,380,surveil,adult,all,aggregate
+27,Japan,JP,JPN,392,confimed,elderly,UC,aggregate
+28,Korea (South),KR,KOR,410,surveil,ped,all,aggregate
+29,Mexico,MX,MEX,484,confimed,adult,all,individual
+30,Netherlands,NL,NLD,528,surveil,elderly,all,individual
+31,Netherlands Antilles,AN,ANT,530,confimed,ped,CD,individual
+32,New Zealand,NZ,NZL,554,surveil,adult,all,individual
+33,Poland,PL,POL,616,confimed,elderly,all,individual
+34,Russian Federation,RU,RUS,643,surveil,ped,all,individual
+35,South Africa,ZA,ZAF,710,confimed,adult,UC,individual
+36,Spain,ES,ESP,724,surveil,elderly,all,individual
+37,Sweden,SE,SWE,752,confimed,ped,CD,individual
+38,Switzerland,CH,CHE,756,surveil,adult,all,individual
+39,United Kingdom,GB,GBR,826,confimed,elderly,all,individual
+40,United States of America,US,USA,840,surveil,adult,all,individual
