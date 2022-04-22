@@ -1,0 +1,1652 @@
+﻿index,name,iso_a3,region,type,country_popup,region_popup,cost_popup,indirect_cost_popup,ref_popup,currency,currency_yr,epi_stage,epi_stage_popup,WESP_18_class,WESP_18_class_popup,cost_IBD,cost_CD,cost_UC,cost_IBD_popup,cost_CD_popup,cost_UC_popup,cost_most_recent,pop_based,UN_geoscheme,decade,Notes,Developer_Notes
+1,Australia,AUS,NA,country,"<p style=""font-size: 150%""><b>Australia</b></p>",NA,"<p style=""font-size: 125%""><b>Melbourne:</b> For a cohort recruited in 2007–2013, the average disease-associated costs were as follows.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>AUS$ 10,477</td>
+<td>AUS$ 6,292</td>
+</tr>
+<tr>
+<td>Medical hospitalization:</td>
+<td>AUS$ 6,493</td>
+<td>AUS$ 6,292</td>
+</tr>
+<tr>
+<td>Surgical hospitalization:</td>
+<td>AUS$ 15,283</td>
+<td>AUS$ 35,506</td>
+</tr>
+<tr>
+<td>Medications:</td>
+<td>AUS$ 3,366</td>
+<td>AUS$ 2,447</td>
+</tr>
+<tr>
+<td>Diagnostic tests:</td>
+<td>AUS$ 2,196</td>
+<td>AUS$ 1,825</td>
+</tr>
+</tbody>
+</table><br>
+Note that biologics were 16% of CD cost but only 1% of UC cost (<a href='https://academic.oup.com/ecco-jcc/article/9/11/988/404130'>Niewiadomski 2015</a>).<br><br>
+
+Another cohort recruited between 2014 and 2015 had the following annual median costs depending on treatment status.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>AUS$ 15,648</td>
+<td>AUS$ 5,017</td>
+</tr>
+<tr>
+<td>Remission:</td>
+<td>AUS$ 4,613</td>
+<td>AUS$ 1,833</td>
+</tr>
+<tr>
+<td>Active:</td>
+<td>AUS$ 5,495</td>
+<td>AUS$ 1,776</td>
+</tr>
+<tr>
+<td>Hospitalized:</td>
+<td>AUS$ 32,554</td>
+<td>AUS$ 13,334</td>
+</tr>
+<tr>
+<td>Ambulatory:</td>
+<td>AUS$ 9,602</td>
+<td>AUS$ 4,966</td>
+</tr>
+</tbody>
+</table><br>
+Note that hospitalization was 63% of total IBD cost, while medications were 35% (<a href=' https://www.tandfonline.com/doi/abs/10.1080/00365521.2017.1323117?journalCode=igas20' target='_blank'>Jackson 2017</a>).</p>",NA,"<p>References: <a href='https://academic.oup.com/ecco-jcc/article/9/11/988/404130'>Niewiadomski 2015</a>, <a href=' https://www.tandfonline.com/doi/abs/10.1080/00365521.2017.1323117?journalCode=igas20' target='_blank'>Jackson 2017</a></p>",AUS$,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,2007-2015,No way to easily include data from second study… Only included in the cost_popup,
+2,Australia,AUS,Melbourne,municipality,"<p style=""font-size: 150%""><b>Australia</b></p>","<p style=""font-size: 150%""><b>Melbourne</b></p>","<p style=""font-size: 125%""><b>Melbourne:</b> For a cohort recruited in 2007–2013, the average disease-associated costs were as follows.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>AUS$ 10,477</td>
+<td>AUS$ 6,292</td>
+</tr>
+<tr>
+<td>Medical hospitalization:</td>
+<td>AUS$ 6,493</td>
+<td>AUS$ 6,292</td>
+</tr>
+<tr>
+<td>Surgical hospitalization:</td>
+<td>AUS$ 15,283</td>
+<td>AUS$ 35,506</td>
+</tr>
+<tr>
+<td>Medications:</td>
+<td>AUS$ 3,366</td>
+<td>AUS$ 2,447</td>
+</tr>
+<tr>
+<td>Diagnostic tests:</td>
+<td>AUS$ 2,196</td>
+<td>AUS$ 1,825</td>
+</tr>
+</tbody>
+</table><br>
+Note that biologics were 16% of CD cost but only 1% of UC cost (<a href='https://academic.oup.com/ecco-jcc/article/9/11/988/404130'>Niewiadomski 2015</a>).<br><br>
+
+Another cohort recruited between 2014 and 2015 had the following annual median costs depending on treatment status.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>AUS$ 15,648</td>
+<td>AUS$ 5,017</td>
+</tr>
+<tr>
+<td>Remission:</td>
+<td>AUS$ 4,613</td>
+<td>AUS$ 1,833</td>
+</tr>
+<tr>
+<td>Active:</td>
+<td>AUS$ 5,495</td>
+<td>AUS$ 1,776</td>
+</tr>
+<tr>
+<td>Hospitalized:</td>
+<td>AUS$ 32,554</td>
+<td>AUS$ 13,334</td>
+</tr>
+<tr>
+<td>Ambulatory:</td>
+<td>AUS$ 9,602</td>
+<td>AUS$ 4,966</td>
+</tr>
+</tbody>
+</table><br>
+Note that hospitalization was 63% of total IBD cost, while medications were 35% (<a href=' https://www.tandfonline.com/doi/abs/10.1080/00365521.2017.1323117?journalCode=igas20' target='_blank'>Jackson 2017</a>).</p>",NA,"<p>References: <a href='https://academic.oup.com/ecco-jcc/article/9/11/988/404130'>Niewiadomski 2015</a>, <a href=' https://www.tandfonline.com/doi/abs/10.1080/00365521.2017.1323117?journalCode=igas20' target='_blank'>Jackson 2017</a></p>",AUS$,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,,,,,,,2007-2015,,
+3,Austria,AUT,NA,country,"<p style=""font-size: 150%""><b>Austria</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A cohort of Austrian UC/CD Association members from 2018 to 2019 were found to have the following mean annual IBD-related productivity losses.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>IBD</b></td>
+</tr>
+<tr>
+<td>All patients:</td>
+<td>&euro; 7,411</td>
+</tr>
+<tr>
+<td>Active disease:</td>
+<td>&euro; 12,377</td>
+</tr>
+<tr>
+<td>Remission:</td>
+<td>&euro; 6,040</td>
+</tr>
+</tbody>
+</table><br>
+Values are based on participants' 7-day recall (<a href='https://www.tandfonline.com/doi/full/10.1080/13696998.2020.1801187' target='_blank'>Walter 2020</a>).</p>",<p>References: <a href='https://www.tandfonline.com/doi/full/10.1080/13696998.2020.1801187' target='_blank'>Walter 2020</a></p>,€,,E,"<p style=""font-size: 125%"">Epidemiological stage: prevalence equilibrium</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+4,Brazil,BRA,NA,country,"<p style=""font-size: 150%""><b>Brazil</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A large cohort followed between 2010 and 2014 received the following mean disability pension payout per year.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Temporary:</td>
+<td>US$ 3221</td>
+<td>US$ 2706</td>
+</tr>
+<tr>
+<td>Permanent:</td>
+<td>US$ 5698</td>
+<td>US$ 5077</td>
+</tr>
+</tbody>
+</table><br>
+Includes prevalent cases. Benefits higher in CD than UC.  Both types of benefits tended to fall between 2010 and 2014 (<a href='https://link.springer.com/article/10.1007/s10198-017-0896-4' target='_blank'>Froes 2018</a>).<br><br>
+
+<b>Rio de Janeiro:</b> A cohort of individuals with Crohn's disease followed between 2010 and 2018 recieved the following mean annual disability pension payout.<br>
+ <table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+</tr>
+<tr>
+<td>Temporary:</td>
+<td>US$ 3340</td>
+</tr>
+<tr>
+<td>Permanent:</td>
+<td>US$ 6638</td>
+</tr>
+</tbody>
+</table><br>
+Includes all prevalent cases (<a href='https://link.springer.com/article/10.1007/s10620-020-06646-z' target='_blank'>Froes 2020</a>).</p>","<p>References: <a href='https://link.springer.com/article/10.1007/s10198-017-0896-4' target='_blank'>Froes 2018</a>, <a href='https://link.springer.com/article/10.1007/s10620-020-06646-z' target='_blank'>Froes 2020</a></p>",USD,,E,"<p style=""font-size: 125%"">Epidemiological stage: emergence</p>",developing,"<p style=""font-size: 125%"">Country status: developing</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+5,Brazil,BRA,Rio de Janeiro,region,"<p style=""font-size: 150%""><b>Brazil</b></p>","<p style=""font-size: 150%""><b>Rio de Janeiro</b></p>",NA,"<p style=""font-size: 125%""><b>Rio de Janeiro:</b> A cohort of individuals with Crohn's disease followed between 2010 and 2018 recieved the following mean annual disability pension payout.<br>
+ <table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+</tr>
+<tr>
+<td>Temporary:</td>
+<td>US$ 3340</td>
+</tr>
+<tr>
+<td>Permanent:</td>
+<td>US$ 6638</td>
+</tr>
+</tbody>
+</table><br>
+Includes all prevalent cases (<a href='https://link.springer.com/article/10.1007/s10620-020-06646-z' target='_blank'>Froes 2020</a>).</p>",<p>References: <a href='https://link.springer.com/article/10.1007/s10620-020-06646-z' target='_blank'>Froes 2020</a></p>,USD,,E,"<p style=""font-size: 125%"">Epidemiological stage: emergence</p>",developing,"<p style=""font-size: 125%"">Country status: developing</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+6,Canada,CAN,NA,country,"<p style=""font-size: 150%""><b>Canada</b></p>",NA,"<p style=""font-size: 125%""><b>Calgary, Alberta:</b> A cohort of hospitalized ulcerative colitis patients from 2001 to 2009 had the following median annual disease-associated costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+  <tr>
+    <td>Medical:</td>
+    <td>CAN$ 5,499</td>
+  </tr>
+  <tr>
+    <td>Elective colectomy:</td>
+    <td>CAN$ 14,316</td>
+  </tr>
+  <tr>
+    <td>Emergent colectomy:</td>
+    <td>CAN$ 23,698</td>
+  </tr>
+</tbody>
+</table><br> 
+Predictors of cost included calendar year, age, current smoker, disease extent, infliximab, length of admission (<a href='https://journals.lww.com/ajg/Abstract/2015/03000/Funding_a_Smoking_Cessation_Program_for_Crohn_s.3.aspx' target='_blank'>Coward 2015</a>).<br><br>
+
+<b>Manitoba:</b> In a cohort recruited between 2005 and 2006, the average disease-associated costs were as follows. <br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Prevalent:</td>
+<td>CAN$ 4,232&nbsp;</td>
+<td>CAN$ 3,552</td>
+</tr>
+<tr>
+<td>Incident:</td>
+<td>CAN$ 6,750</td>
+<td>CAN$ 3,190</td>
+</tr>
+<tr>
+<td>Male:</td>
+<td>CAN$ 3,989</td>
+<td>CAN$ 3,513</td>
+</tr>
+<tr>
+<td>Female:</td>
+<td>CAN$ 4,407</td>
+<td>CAN$ 3,588</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>CAN$ 12,900</td>
+<td>CAN$ 14,183</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>CAN$ 18,154</td>
+<td>CAN$ 19,763</td>
+</tr>
+<tr>
+<td>Age &le; 18 y:</td>
+<td>CAN$ 4,174</td>
+<td>CAN$ 3,364</td>
+</tr>
+<tr>
+<td>Age 19-64 y:</td>
+<td>CAN$ 3,875</td>
+<td>CAN$ 2,714</td>
+</tr>
+<tr>
+<td>Age 65-79 y:</td>
+<td>CAN$ 5,442</td>
+<td>CAN$ 5,204</td>
+</tr>
+<tr>
+<td>Age 80-102 y:</td>
+<td>CAN$ 8372</td>
+<td>CAN$ 8,675</td>
+</tr>
+</tbody>
+</table><br> 
+Medication accounted for > 40% of overall costs (<a href='https://pubmed.ncbi.nlm.nih.gov/22109958/' target='_blank'>Bernstein 2012</a>)<br><br>
+
+In a second Manitoba cohort, followed between 2005 and 2015, the following disease-related costs were observed.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 4,640</td>
+<td>CAN$ 2,194</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 10,747</td>
+<td>CAN$ 5,065</td>
+</tr>
+<tr>
+<td>Anti-TNF</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 671</td>
+<td>CAN$ 38</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 7,754</td>
+<td>CAN$ 2,650</td>
+</tr>
+<tr>
+<td>Hospitalization</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 2,565</td>
+<td>CAN$ 790</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 1,426</td>
+<td>CAN$ 1,016</td>
+</tr>
+</tbody>
+</table><br>
+Anti-TNF escalated total costs. Decreased hospitalization costs in UC failed to reduce overall cost (<a href='https://academic.oup.com/ibdjournal/article/25/10/1718/5520231?login=true' target='_blank'>Targownik 2019</a>).</p>",NA,"<p>References: <a href='https://pubmed.ncbi.nlm.nih.gov/22109958/' target='_blank'>Bernstein 2012</a>, <a href='https://journals.lww.com/ajg/Abstract/2015/03000/Funding_a_Smoking_Cessation_Program_for_Crohn_s.3.aspx' target='_blank'>Coward 2015</a>, <a href='https://academic.oup.com/ibdjournal/article/25/10/1718/5520231?login=true' target='_blank'>Targownik 2019</a></p>",CAN$,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+7,Manitoba,CAN,Manitoba,region,"<p style=""font-size: 150%""><b>Canada</b></p>","<p style=""font-size: 150%""><b>Manitoba</b></p>","<p style=""font-size: 125%""><b>Manitoba:</b> In a cohort recruited between 2005 and 2006, the average disease-associated costs were as follows. <br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Prevalent:</td>
+<td>CAN$ 4,232&nbsp;</td>
+<td>CAN$ 3,552</td>
+</tr>
+<tr>
+<td>Incident:</td>
+<td>CAN$ 6,750</td>
+<td>CAN$ 3,190</td>
+</tr>
+<tr>
+<td>Male:</td>
+<td>CAN$ 3,989</td>
+<td>CAN$ 3,513</td>
+</tr>
+<tr>
+<td>Female:</td>
+<td>CAN$ 4,407</td>
+<td>CAN$ 3,588</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>CAN$ 12,900</td>
+<td>CAN$ 14,183</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>CAN$ 18,154</td>
+<td>CAN$ 19,763</td>
+</tr>
+<tr>
+<td>Age &le; 18 y:</td>
+<td>CAN$ 4,174</td>
+<td>CAN$ 3,364</td>
+</tr>
+<tr>
+<td>Age 19-64 y:</td>
+<td>CAN$ 3,875</td>
+<td>CAN$ 2,714</td>
+</tr>
+<tr>
+<td>Age 65-79 y:</td>
+<td>CAN$ 5,442</td>
+<td>CAN$ 5,204</td>
+</tr>
+<tr>
+<td>Age 80-102 y:</td>
+<td>CAN$ 8372</td>
+<td>CAN$ 8,675</td>
+</tr>
+</tbody>
+</table><br> 
+Medication accounted for > 40% of overall costs (<a href='https://pubmed.ncbi.nlm.nih.gov/22109958/' target='_blank'>Bernstein, 2012</a>)<br><br>
+
+In a second Manitoba cohort, followed between 2005 and 2015, the following disease-related costs were observed.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 4,640</td>
+<td>CAN$ 2,194</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 10,747</td>
+<td>CAN$ 5,065</td>
+</tr>
+<tr>
+<td>Anti-TNF</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 671</td>
+<td>CAN$ 38</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 7,754</td>
+<td>CAN$ 2,650</td>
+</tr>
+<tr>
+<td>Hospitalization</td>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>2005</td>
+<td>CAN$ 2,565</td>
+<td>CAN$ 790</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>CAN$ 1,426</td>
+<td>CAN$ 1,016</td>
+</tr>
+</tbody>
+</table><br>
+Anti-TNF escalated total costs. Decreased hospitalization costs in UC failed to reduce overall cost (<a href='https://academic.oup.com/ibdjournal/article/25/10/1718/5520231?login=true' target='_blank'>Targownik 2019</a>).</p>",NA,"<p>References: <a href='https://pubmed.ncbi.nlm.nih.gov/22109958/' target='_blank'>Bernstein 2012</a>, <a href='https://academic.oup.com/ibdjournal/article/25/10/1718/5520231?login=true' target='_blank'>Targownik 2019</a></p>",CAN$,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+8,Alberta,CAN,Calgary,municipality,"<p style=""font-size: 150%""><b>Canada</b></p>","<p style=""font-size: 150%""><b>Calgary</b></p>","<p style=""font-size: 125%""><b>Calgary, Alberta:</b> A cohort of hospitalized ulcerative colitis patients from 2001 to 2009 had the following median annual disease-associated costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+  <tr>
+    <td>Medical:</td>
+    <td>CAN$ 5,499</td>
+  </tr>
+  <tr>
+    <td>Elective colectomy:</td>
+    <td>CAN$ 14,316</td>
+  </tr>
+  <tr>
+    <td>Emergent colectomy:</td>
+    <td>CAN$ 23,698</td>
+  </tr>
+</tbody>
+</table><br> 
+Predictors of cost included calendar year, age, current smoker, disease extent, infliximab, length of admission (<a href='https://journals.lww.com/ajg/Abstract/2015/03000/Funding_a_Smoking_Cessation_Program_for_Crohn_s.3.aspx' target='_blank'>Coward, 2015</a>).</p>",NA,<p>References: <a href='https://journals.lww.com/ajg/Abstract/2015/03000/Funding_a_Smoking_Cessation_Program_for_Crohn_s.3.aspx' target='_blank'>Coward 2015</a></p>,CAN$,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+9,Denmark,DNK,NA,country,"<p style=""font-size: 150%""><b>Denmark</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort recruited between 2003 and 2015 was followed for 5 years. The disease-associated costs were as follows.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""140"">&nbsp;</td>
+  <td colspan=""2"" width=""130""><b>Crohn's Disease</b></td>
+  <td colspan=""2"" width=""130""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Year 1</td>
+<td>Year 5</td>
+<td>Year 1</td>
+<td>Year 5</td>
+</tr>
+<tr>
+<td>Outpatients:</td>
+<td>&euro; 3,851</td>
+<td>&euro; 2,185</td>
+<td>&euro; 1,722</td>
+<td>&euro; 578</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>&euro; 4,745</td>
+<td>&euro; 107</td>
+<td>&euro; 2,066</td>
+<td style=""color:red"">-&euro; 3</td>
+</tr>
+<tr>
+<td>Medications:</td>
+<td>&euro; 399</td>
+<td>&euro; 187</td>
+<td>&euro; 476</td>
+<td>&euro; 308</td>
+</tr>
+</tbody>
+</table><br>
+  CD more expensive than UC for direct costs. Year 1 costs were higher than subsequent years (<a href='https://www.tandfonline.com/doi/full/10.1080/00365521.2019.1707276' target='_blank'>Vadstrup 2020</a>).<br><br>
+
+<b>Copenhagen:</b> Incident cases occuring between 2003 and 2015 had the following annual mean disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>&euro; 6,600</td>
+<td>&euro; 4,700</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>&euro; 4,100</td>
+<td>&euro; 2,900</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>&euro; 700</td>
+<td>&euro; 300</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>&euro; 736</td>
+<td>&euro; 120</td>
+</tr>
+<tr>
+<td>Other meds:</td>
+<td>&euro; 290</td>
+<td>&euro; 535</td>
+</tr>
+<tr>
+<td>Investigations:</td>
+<td>&euro; 800</td>
+<td>&euro; 800</td>
+</tr>
+</tbody>
+</table><br>
+CD had higher costs than UC. In CD, cost of biologics increased upon follow-up. In UC, disease extent predicted cost. In CD, phenotype did not predict cost (<a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A cohort recruited between 2003 and 2015 was followed for 5 years. The indirect disease-associated costs were as follows.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""140"">&nbsp;</td>
+<td colspan=""2"" width=""130"">Crohn's Disease</td>
+<td colspan=""2"" width=""130"">Ulcerative Colitis</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>Year 1</td>
+<td>Year 2</td>
+<td>Year 1</td>
+<td>Year 2</td>
+</tr>
+<tr>
+<td>Productivity:</td>
+<td>&euro; 3,990</td>
+<td>&euro; 3,155</td>
+<td>&euro; 2,499</td>
+<td>&euro; 1,535</td>
+</tr>
+<tr>
+<td>Home care:</td>
+<td>&euro; 33</td>
+<td>&euro; 24</td>
+<td>&euro; 67</td>
+<td>&euro; 39</td>
+</tr>
+</tbody>
+</table><br>
+A Human Capital approach was used. Direct and indirect costs decreased each year after onset. CD more expensive than UC for indirect costs. About one-third of year 1 total cost due to indirect costs. In years 2-5, productivity losses were the main cost driver in CD and UC (<a href='https://www.tandfonline.com/doi/full/10.1080/00365521.2019.1707276' target='_blank'>Vadstrup 2020</a>).<br><br>
+
+<b>Copenhagen:</b> Incident cases occuring between 2003 and 2015 had the following annual median societal costs when matched with controls by age, sex and place of residence.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Sick leave:</td>
+<td>&euro; 1,100</td>
+<td>&euro; 1,100</td>
+</tr>
+<tr>
+<td>Social security benefits:</td>
+<td>&euro; 1,900</td>
+<td>&euro; 1,500</td>
+</tr>
+<tr>
+<td>Loss of revenue from income tax:</td>
+<td>&euro; 700</td>
+<td>&euro; 800</td>
+</tr>
+</tbody>
+</table><br>
+Indirect costs in IBD patients and controls were similar. Indirect costs in UC were driven by young age (17-40 y) and smoking. CD had no specific predictors.  After the first year, the total costs were dominated by direct costs in CD patients, and by indirect costs in UC patients (<a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a>).</p>","<p>References: <a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a>, <a href='https://www.tandfonline.com/doi/full/10.1080/00365521.2019.1707276' target='_blank'>Vadstrup 2020</a></p>",€,,E,"<p style=""font-size: 125%"">Epidemiological stage: emergence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+10,Denmark,DNK,Copenhagen,municipality,"<p style=""font-size: 150%""><b>Denmark</b></p>","<p style=""font-size: 150%""><b>Copenhagen</b></p>","<p style=""font-size: 125%""><b>Copenhagen:</b> Incident cases occuring between 2003 and 2015 had the following annual mean disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>&euro; 6,600</td>
+<td>&euro; 4,700</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>&euro; 4,100</td>
+<td>&euro; 2,900</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>&euro; 700</td>
+<td>&euro; 300</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>&euro; 736</td>
+<td>&euro; 120</td>
+</tr>
+<tr>
+<td>Other meds:</td>
+<td>&euro; 290</td>
+<td>&euro; 535</td>
+</tr>
+<tr>
+<td>Investigations:</td>
+<td>&euro; 800</td>
+<td>&euro; 800</td>
+</tr>
+</tbody>
+</table><br>
+CD had higher costs than UC. In CD, cost of biologics increased upon follow-up. In UC, disease extent predicted cost. In CD, phenotype did not predict cost (<a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a>).</p>","<p style=""font-size: 125%""><b>Copenhagen:</b> Incident cases occuring between 2003 and 2015 had the following annual median societal costs when matched with controls by age, sex and place of residence.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Sick leave:</td>
+<td>&euro; 1,100</td>
+<td>&euro; 1,100</td>
+</tr>
+<tr>
+<td>Social security benefits:</td>
+<td>&euro; 1,900</td>
+<td>&euro; 1,500</td>
+</tr>
+<tr>
+<td>Loss of revenue from income tax:</td>
+<td>&euro; 700</td>
+<td>&euro; 800</td>
+</tr>
+</tbody>
+</table><br>
+Indirect costs in IBD patients and controls were similar. Indirect costs in UC were driven by young age (17-40 y) and smoking. CD had no specific predictors.  After the first year, the total costs were dominated by direct costs in CD patients, and by indirect costs in UC patients (<a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a>).</p>",<p>References: <a href='https://academic.oup.com/ecco-jcc/article/14/1/53/5488021?login=true' target='_blank'>Lo 2019</a></p>,€,,E,"<p style=""font-size: 125%"">Epidemiological stage: emergence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+11,East Europe,NA,,region,"<p style=""font-size: 150%""><b>Country Name</b></p>",,NA,NA,<p>References: <a href='' target='_blank'>Reference</a></p>,,,NA,NA,NA,NA,,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+12,Finland,FIN,NA,country,"<p style=""font-size: 150%""><b>Finland</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A 2015 to 2016 cohort experienced the following mean annual societal costs depending on absenteeism or presenteeism.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Absenteeism</b></td>
+<td width=""125""><b>Presenteeism</b></td>
+</tr>
+<tr>
+<td>CD:</td>
+<td>&euro; 724</td>
+<td>&euro; 763</td>
+</tr>
+<tr>
+<td>UC:</td>
+<td>&euro; 750</td>
+<td>&euro; 589</td>
+</tr>
+<tr>
+<td>Men:</td>
+<td>&euro; 531</td>
+<td>&euro; 495</td>
+</tr>
+<tr>
+<td>Women:</td>
+<td>&euro; 955</td>
+<td>&euro; 802</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>&euro; 933</td>
+<td>&euro; 1,079</td>
+</tr>
+<tr>
+<td>Non-biologics:</td>
+<td>&euro; 702</td>
+<td>&euro; 564</td>
+</tr>
+</tbody>
+</table><br>
+A human capital approach was used. Costs did not differ greatly between absenteeism and presentieeism groups (<a href='https://www.tandfonline.com/doi/full/10.1080/00365521.2021.1908416' target='_blank'>Rankala 2021</a>).</p>",<p>References: <a href='https://www.tandfonline.com/doi/full/10.1080/00365521.2021.1908416' target='_blank'>Rankala 2021</a></p>,€,,E,"<p style=""font-size: 125%"">Epidemiological stage: emergence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+13,Hungary,HUN,NA,country,"<p style=""font-size: 150%""><b>Hungary</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A 2012 to 2013 cohort had the following mean societal cost per person.<br>
+<table width=""500"">
+<tbody>
+<tr>
+<td width=""140"">&nbsp;</td>
+<td width=""120""><b>IBD</b></td>
+<td width=""120""><b>Crohn's Disease</b></td>
+<td width=""120""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Disability pension (HCA):</td>
+<td>&euro; 1,450</td>
+<td>&euro; 1,545</td>
+<td>&euro; 1,310</td>
+</tr>
+<tr>
+<td>Disability pension (FCM):</td>
+<td>&euro; 11.30</td>
+<td>~</td>
+<td>~</td>
+</tr>
+<tr>
+<td>Sick leave:&nbsp;</td>
+<td>&euro; 430</td>
+<td>&euro; 395</td>
+<td>&euro; 485</td>
+</tr>
+<tr>
+<td>Total productivity loss (HCA):</td>
+<td>&euro; 1,880</td>
+<td>&euro; 1,940</td>
+<td>&euro; 1,795</td>
+</tr>
+<tr>
+<td>Total productivity loss (FCM):</td>
+<td>&euro; 445</td>
+<td>~</td>
+<td>~</td>
+</tr>
+<tr>
+<td>Presenteeism:</td>
+<td>~</td>
+<td>&euro; 2,605</td>
+<td>&euro; 2,410</td>
+</tr>
+</tbody>
+</table><br>
+A human capital approach and a friction cost method were used. The 2010 national full disability pension rates used for comparison. Full disability pension (DP) more prevalent in CD (9.2%, p=0.009) but not in UC (6.6%, p=0.56) vs. background population (5.5%). Risk factors for DP in CD: age, previous surgery and arthritis/arthralgia. (<a href='https://link.springer.com/article/10.1007/s10198-014-0603-7' target='_blank'>Mandel 2014</a>).</p>",<p>References: <a href='https://link.springer.com/article/10.1007/s10198-014-0603-7' target='_blank'>Mandel 2014</a></p>,€,,E,"<p style=""font-size: 125%"">Epidemiological stage: prevalence equilibrium</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+14,Italy,ITA,NA,country,"<p style=""font-size: 150%""><b>Italy</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort with Crohn's disease observed from 2006 to 2010 had the following annual mean disease-associated costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>&euro; 18,838</td>
+</tr>
+<tr>
+<td>Medications:</td>
+<td>&euro; 9,366</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>&euro; 1,688</td>
+</tr>
+</tbody>
+</table><br>
+(<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410726/' target='_blank'>Benedini 2012</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A cohort with Crohn's disease observed from 2006 to 2010 had the following annual mean disease-associated societal costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+</tr>
+<tr>
+<td>Productivity losses:</td>
+<td>&euro; 2,784</td>
+</tr>
+<tr>
+<td>Transport/Home assistance:</td>
+<td>&euro; 899</td>
+</tr>
+<tr>
+<td>Total indirect:</td>
+<td>&euro; 3,685</td>
+</tr>
+</tbody>
+</table><br>
+(<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410726/' target='_blank'>Benedini 2012</a>).</p>",<p>References: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3410726/' target='_blank'>Benedini 2012</a></p>,€,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+15,Japan,JPN,NA,country,"<p style=""font-size: 150%""><b>Japan</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A cohort recruited between 2012 and 2014 had the following annual mean societal costs related to their disease.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+  <td width=""125""><b>Indirect Cost</b></td>
+</tr>
+<tr>
+<td>IBD:</td>
+<td>JPY 1,546,610</td>
+</tr>
+<tr>
+<td>CD:</td>
+<td>JPY 1,645,068&nbsp;</td>
+</tr>
+<tr>
+<td>UC:</td>
+<td>JPY 1,562,054</td>
+</tr>
+<tr>
+<td>Controls:</td>
+<td>JPY 1,067,331</td>
+</tr>
+</tbody>
+</table><br>
+Based on self-reported IBD diagnoses. No difference between CD and UC patients (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6419598/' target='_blank'>Yamabe 2019</a>).</p>",<p>References: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6419598/' target='_blank'>Yamabe 2019</a></p>,JPY,,CP,"<p style=""font-size: 125%"">Epidemiological stage: prevalence equilibrium</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+16,Netherlands,NLD,NA,country,"<p style=""font-size: 150%""><b>Netherlands</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort of prevalent IBD cases had the following mean annual disease-associated costs in 2011.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>&euro; 6,500</td>
+<td>&euro; 3,961</td>
+</tr>
+<tr>
+<td>Outpatients:</td>
+<td>&euro; 456</td>
+<td>&euro; 274</td>
+</tr>
+<tr>
+<td>Diagnostics:</td>
+<td>&euro; 162</td>
+<td>&euro; 119</td>
+</tr>
+<tr>
+<td>Medications:</td>
+<td>&euro; 414</td>
+<td>&euro; 652</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>&euro; 4,157</td>
+<td>&euro; 748</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>&euro; 1,261</td>
+<td>&euro; 555</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>&euro; 40</td>
+<td>&euro; 33</td>
+</tr>
+</tbody>
+</table><br>
+Biologics accounted for 64% of the cost in CD, 19% in UC. Mesalamine and biologics were the main cost drivers among medications in UC; in CD, the main driver was biologics (<a href='https://gut.bmj.com/content/63/1/72.long' target='_blank'>Van der Valk 2014</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A cohort of prevalent IBD cases had the following mean annual disease-associated societal costs in 2011.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total productivity losses:</td>
+<td>&euro; 1,304</td>
+<td>&euro; 1,580</td>
+</tr>
+<tr>
+<td>Sick leave, patients:</td>
+<td>&euro; 1,156</td>
+<td>&euro; 1,448</td>
+</tr>
+<tr>
+<td>Sick leave, caregivers:</td>
+<td>&euro; 72</td>
+<td>&euro; 60</td>
+</tr>
+<tr>
+<td>Lost earnings:</td>
+<td>&euro; 76</td>
+<td>&euro; 72</td>
+</tr>
+</tbody>
+</table><br>
+Total productivity losses were 16% and 39% of total costs in CD and UC, respectively (<a href='https://gut.bmj.com/content/63/1/72.long' target='_blank'>Van der Valk 2014</a>).
+
+<b>Amsterdam:</b> A 2017 to 2019 cohort had the following mean annual disease-associated societal cost per person.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>IBD</b></td>
+</tr>
+<tr>
+<td>Absenteeism:</td>
+<td>&euro; 1,738</td>
+</tr>
+<tr>
+<td>Presenteeism:</td>
+<td>&euro; 5,478</td>
+</tr>
+<tr>
+<td>Overall work productivity losses:</td>
+<td>&euro; 6,597</td>
+</tr>
+</tbody>
+</table><br>
+A human capital approach was used. Health-related quality of life correlated with productivity losses. Active disease, perianal disease, and fatigue predicted productivity losses. 50% of patients incurred productivity losses (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885332/' target='_blank'>Van Gennep 2021</a>).</p>","<p>References: <a href='https://gut.bmj.com/content/63/1/72.long' target='_blank'>Van der Valk 2014</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885332/' target='_blank'>Van Gennep 2021</a></p>",€,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+17,Netherlands,NLD,Amsterdam,municipality,"<p style=""font-size: 150%""><b>Netherlands</b></p>","<p style=""font-size: 150%""><b>Amsterdam</b></p>",NA,"<p style=""font-size: 125%""><b>Amsterdam:</b> A 2017 to 2019 cohort had the following mean annual disease-associated societal cost per person.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>IBD</b></td>
+</tr>
+<tr>
+<td>Absenteeism:</td>
+<td>&euro; 1,738</td>
+</tr>
+<tr>
+<td>Presenteeism:</td>
+<td>&euro; 5,478</td>
+</tr>
+<tr>
+<td>Overall work productivity losses:</td>
+<td>&euro; 6,597</td>
+</tr>
+</tbody>
+</table><br>
+A human capital approach was used. Health-related quality of life correlated with productivity losses. Active disease, perianal disease, and fatigue predicted productivity losses. 50% of patients incurred productivity losses (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885332/' target='_blank'>Van Gennep 2021</a>).</p>",<p>References: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7885332/' target='_blank'>Van Gennep 2021</a></p>,€,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+18,Poland,POL,NA,country,"<p style=""font-size: 150%""><b>Poland</b></p>",NA,NA,"<p style=""font-size: 125%""><b>National:</b> A cohort of ulcerative colitis patients obsesrved during 2012 incurred the following mean annual societal costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Absenteeism</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>GPD</td>
+<td>&euro; 1,260</td>
+</tr>
+<tr>
+<td>GVA</td>
+<td>&euro; 3,034</td>
+</tr>
+<tr>
+<td>GI</td>
+<td>&euro; 928</td>
+</tr>
+</tbody>
+</table><br>
+Macroeconomic indicators include: Gross Domestic Product (GDP), Gross Value Added (GVA), and Gross Income (GI). Most costs caused by sick leave (<a href='https://www.tandfonline.com/doi/abs/10.1586/14737167.2016.1085802?journalCode=ierp20' target='_blank'>Malinowski 2015 </a>).</p>",<p>References: <a href='https://www.tandfonline.com/doi/abs/10.1586/14737167.2016.1085802?journalCode=ierp20' target='_blank'>Malinowski 2015 </a></p>,€,,AI,"<p style=""font-size: 125%"">Epidemiological stage: acceleration in incidence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+19,South Korea,KOR,NA,country,"<p style=""font-size: 150%""><b>South Korea</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort followed between 2005 and 2015 had the following mean annual disease-associated costs.<br>
+<table width=""375"">
+<tbody>
+<tr>
+<td width=""125"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>2006</td>
+<td>US$ 1,178</td>
+<td>US$ 413</td>
+</tr>
+<tr>
+<td>2007</td>
+<td>US$ 1,497</td>
+<td>US$ 402</td>
+</tr>
+<tr>
+<td>2008</td>
+<td>US$ 1,579</td>
+<td>US$ 400</td>
+</tr>
+<tr>
+<td>2009</td>
+<td>US$ 1,859</td>
+<td>US$ 400&nbsp;</td>
+</tr>
+<tr>
+<td>2010</td>
+<td>US$ 2,138</td>
+<td>US$ 423</td>
+</tr>
+<tr>
+<td>2011</td>
+<td>US$ 2,307</td>
+<td>US$ 517</td>
+</tr>
+<tr>
+<td>2012</td>
+<td>US$ 2,521</td>
+<td>US$ 574</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>US$ 2,519</td>
+<td>US$ 601</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>US$ 2,853</td>
+<td>US$ 679</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>US$ 3,192</td>
+<td>US$ 798</td>
+</tr>
+</tbody>
+</table><br>
+Predictors of cost: age at onset, hospitalization, surgery, anti-TNF. Increase in annual use of biologics, 2006 – 2015: CD 39.8 –93.1% and UC 0.4 – 84.5% (<a href='https://www.tandfonline.com/doi/abs/10.1080/00365521.2019.1591498?journalCode=igas20' target='_blank'>Kim 2019</a>).<br><br>
+
+Another study assessing incident cases between 2010 and 2012 found the following mean annual disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""60"">&nbsp;</td>
+<td colspan=""3"" width=""170""><b>Crohn's Disease</b></td>
+<td colspan=""3"" width=""170""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td><b>Year:</b></td>
+<td> 1</td>
+<td> 2</td>
+<td> 3</td>
+<td> 1</td>
+<td> 2</td>
+<td> 3</td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>US$ 3,658</td>
+<td>US$ 2,109</td>
+<td>US$ 2,120</td>
+<td>US$ 1,758</td>
+<td>US$ 1,185</td>
+<td>US$ 1,117</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>US$ 774</td>
+<td>US$ 1,052</td>
+<td>US$ 1,274</td>
+<td>US$ 108</td>
+<td>US$ 215</td>
+<td>US$ 282</td>
+</tr>
+</tbody>
+</table><br>
+Note that South Korea is an example of a country where UC cases still exceed CD. Biologics are a cost-driver. Total cost peaked in the first year after diagnosis, then decreased.  First year costs driven by diagnostic procedures. Cost of biologics increased annually following diagnosis (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974324/' target='_blank'>Lee 2020</a>).</p>",NA,"<p>References: <a href='https://www.tandfonline.com/doi/abs/10.1080/00365521.2019.1591498?journalCode=igas20' target='_blank'>Kim 2019</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974324/' target='_blank'>Lee 2020</a></p>",USD,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developing,"<p style=""font-size: 125%"">Country status: developing</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+20,Spain,ESP,NA,country,"<p style=""font-size: 150%""><b>Spain</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort consisting of prevalent ulcerative colitis cases recruited between 2002 and 2012 had the following mean annual disease-associated costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td >Total:</td>
+<td >&euro; 1,754</td>
+</tr>
+<tr>
+<td >GP consult:</td>
+<td >&euro; 251</td>
+</tr>
+<tr>
+<td >GI consult:</td>
+<td >&euro; 117</td>
+</tr>
+<tr>
+<td >Hospitalization:</td>
+<td >&euro; 853</td>
+</tr>
+<tr>
+<td >Medication:</td>
+<td >&euro; 497</td>
+</tr>
+<tr>
+<td >Other:</td>
+<td >&euro; 37</td>
+</tr>
+</tbody>
+</table><br>
+Most consultations were with a GP. Medications: steroids + 5-ASA = 74%, IMM = 21%. Biologics not recorded (<a href='https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-linkresolver-costs-ulcerative-colitis-from-societal-S0210570515001107' target='_blank'>Aldeguer 2016</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A cohort consisting of prevalent ulcerative colitis cases recruited between 2002 and 2012 had the following mean annual disease-associated societalcosts.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Productivity losses:</td>
+<td>&euro; 399</td>
+</tr>
+<tr>
+<td>Sick leave payments:</td>
+<td>&euro; 311</td>
+</tr>
+<tr>
+<td>Absenteeism:</td>
+<td>&euro; 88</td>
+</tr>
+</tbody>
+</table><br>
+Indirect costs were 18.5% of total costs. Drivers of indirect costs were age, UC family history, psychological comorbidities. Indirect costs decreased with age (<a href='https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-linkresolver-costs-ulcerative-colitis-from-societal-S0210570515001107' target='_blank'>Aldeguer 2016</a>).</p>",<p>References: <a href='https://www.elsevier.es/es-revista-gastroenterologia-hepatologia-14-linkresolver-costs-ulcerative-colitis-from-societal-S0210570515001107' target='_blank'>Aldeguer 2016</a></p>,€,,AI,"<p style=""font-size: 125%"">Epidemiological stage: prevalence equilibrium</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+21,Sweden,SWE,NA,country,"<p style=""font-size: 150%""><b>Sweden</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A cohort recruited between 2010 and 2015 had the following mean annual disease-associated costs.<br><br>
+Prevalent cases:<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""100"">&nbsp;</td>
+<td colspan=""2"" width=""150""><b>Crohn's Disease</b></td>
+<td colspan=""2"" width=""150""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>18-64 y</td>
+<td>&ge; 65 y</td>
+<td>18-64 y</td>
+<td>&ge; 65 y</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>US$ 4,495</td>
+<td>US$ 1,407</td>
+<td>US$ 1,471</td>
+<td>US$ 436</td>
+</tr>
+<tr>
+<td>Other meds:</td>
+<td>US$ 1,335</td>
+<td>US$ 1,881</td>
+<td>US$ 1,387</td>
+<td>US$ 1,925</td>
+</tr>
+<tr>
+<td>Outpatient:</td>
+<td>US$ 1,926</td>
+<td>US$ 2,092</td>
+<td>US$ 1,447</td>
+<td>US$ 1,706</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>US$ 2,338</td>
+<td>US$ 4,346</td>
+<td>US$ 1,619</td>
+<td>US$ 4,004</td>
+</tr>
+</tbody>
+</table><br><br>
+Incident cases:<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""100"">&nbsp;</td>
+<td colspan=""2"" width=""150""><b>Crohn's Disease</b></td>
+<td colspan=""2"" width=""150""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>18-64 y</td>
+<td>&ge; 65 y</td>
+<td>18-64 y</td>
+<td>&ge; 65 y</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>US$ 2,301</td>
+<td>US$ 759</td>
+<td>US$ 831</td>
+<td>US$ 226</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>US$ 5,152</td>
+<td>US$ 10,367</td>
+<td>US$ 3,204</td>
+<td>US$ 7,556</td>
+</tr>
+</tbody>
+</table><br>
+Anti-TNF: CD 64%, UC 36%. Greater expenditure on biologics in CD and in ages 18-64 y. Hospital charges higher in older individuals (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7490827/' target='_blank'>Khalili 2019</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A cohort recruited between 2010 and 2015 had the following mean annual disease-associated societal costs.<br><br>
+Prevalent cases:
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Productivity losses:</td>
+<td>US$ 12,717</td>
+<td>US$ 8,209</td>
+</tr>
+<tr>
+<td>Sick leave:</td>
+<td>US$ 3,900</td>
+<td>US$ 3,118</td>
+</tr>
+<tr>
+<td>Disability pension:</td>
+<td>US$ 8,816</td>
+<td>US$ 5,091</td>
+</tr>
+</tbody>
+</table><br>
+Incident cases:
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Productivity losses:</td>
+<td>US$ 12,102</td>
+<td>US$ 8,852</td>
+</tr>
+<tr>
+<td>Sick leave:</td>
+<td>US$ 5,858</td>
+<td>US$ 4,073</td>
+</tr>
+<tr>
+<td>Disability pension:</td>
+<td>US$ 6,243</td>
+<td>US$ 4,778</td>
+</tr>
+</tbody>
+</table>
+Lost productivity accounted for 56% and 58% of the total annual societal costs of CD and UC patients, respectively. Prevalent CD patients had a mean avgerage of 63 days of sick leave per annum, while UC patients had 41 days.  Incident CD patients of working age had a mean avgerage of 29 days of sick leave per annum, while UC patients had 24 days (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7490827/' target='_blank'>Khalili 2019</a>).</p>",<p>References: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7490827/' target='_blank'>Khalili 2019</a></p>,USD,2015,AI,"<p style=""font-size: 125%"">Epidemiological stage: acceleration in incidence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+22,Switzerland,CHE,NA,country,"<p style=""font-size: 150%""><b>Switzerland</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> A 2006 to 2016 cohort consisting of prevalent IBD cases had the following mean annual disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>&euro; 9,504</td>
+<td>&euro; 5,704</td>
+</tr>
+<tr>
+<td>Drugs:</td>
+<td>&euro; 6,618</td>
+<td>&euro; 3,895</td>
+</tr>
+<tr>
+<td>Inpatient:</td>
+<td>&euro; 2,188</td>
+<td>&euro; 1,242</td>
+</tr>
+<tr>
+<td>Outpatient:</td>
+<td>&euro; 698</td>
+<td>&euro; 567</td>
+</tr>
+</tbody>
+</table><br>
+Intense drug use at enrolment: CD biologics, UC immunomodulators; at follow-up, CD and UC biologics and immunomodulators. Mean annual growth rate of total cost: CD 7%, UC 10% (<a href='https://academic.oup.com/ecco-jcc/article/13/6/744/5420756' target='_blank'>Pillai 2019</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A 2006 to 2016 cohort consisting of prevalent IBD cases had the following mean annual disease-associated societal costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Productivity losses:</td>
+<td>&euro; 1,339</td>
+<td>&euro; 707</td>
+</tr>
+</tbody>
+</table><br>
+A Human Capital approach was used. Data based on participant recall. Indirect costs were 12% and 11% of total costs in CD and UC, respectively. Large measure of uncertainty of data recall (<a href='https://academic.oup.com/ecco-jcc/article/13/6/744/5420756' target='_blank'>Pillai 2019</a>).</p>",<p>References: <a href='https://academic.oup.com/ecco-jcc/article/13/6/744/5420756' target='_blank'>Pillai 2019</a></p>,€,,CP,"<p style=""font-size: 125%"">Epidemiological stage: compounding prevalence</p>",developed,"<p style=""font-size: 125%"">Country status: developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+23,USA,USA,NA,country,"<p style=""font-size: 150%""><b>United States of America</b></p>",NA,"<p style=""font-size: 125%""><b>National:</b> In 2003 to 2004, a cohort of participants with prevalent IBD from 33 states had the following mean annual direct costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>US$ 8,265</td>
+<td>US$ 5,066</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>US$ 1,026</td>
+<td>US$ 807</td>
+</tr>
+<tr>
+<td>Medical:</td>
+<td>US$ 1,567</td>
+<td>US$ 1,099</td>
+</tr>
+<tr>
+<td>ER:</td>
+<td>US$ 97</td>
+<td>US$ 44</td>
+</tr>
+<tr>
+<td>Endoscopy:</td>
+<td>US$ 266</td>
+<td>US$ 306</td>
+</tr>
+<tr>
+<td>Radiology:</td>
+<td>US$ 272</td>
+<td>US$ 165</td>
+</tr>
+<tr>
+<td>Outpatient:</td>
+<td>US$ 2,753</td>
+<td>US$ 1,768</td>
+</tr>
+<tr>
+<td>Medication:</td>
+<td>US$ 2,919</td>
+<td>US$ 1,393</td>
+</tr>
+</tbody>
+</table><br>
+Predictors of higher cost in both sexes: age < 20 y. Predictors of greater need for hospitalization: diagnosis, age, gender, region, health insurance status (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613430/' target='_blank'>Kappelman 2008</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613430/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2962765/' target='_blank'>Kappelman 2011</a>).<br><br>
+
+A cohort of Crohn's disease patients from 2011 to 2013 had the following mean annual costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Crohn's Disease</b></td>
+</tr>
+<tr>
+<td>All patients:</td>
+<td>US$ 18637</td>
+</tr>
+<tr>
+<td>High-cost patients:</td>
+<td>US$ 45602</td>
+</tr>
+<tr>
+<td>Low-cost patients:</td>
+<td>US$ 8153</td>
+</tr>
+<tr>
+<td>Men:</td>
+<td>US$ 18167</td>
+</tr>
+<tr>
+<td>Women:</td>
+<td>US$ 18999</td>
+</tr>
+<tr>
+<td>Age &le; 20 y:</td>
+<td>US$ 22796</td>
+</tr>
+<tr>
+<td>Age &gt; 20 y:</td>
+<td>US$ 18095</td>
+</tr>
+<tr>
+<td>Age 11-20 y:</td>
+<td>US$ 23409</td>
+</tr>
+<tr>
+<td>Age 21-30 y:</td>
+<td>US$ 18946</td>
+</tr>
+<tr>
+<td>Age 31-40 y:</td>
+<td>US$ 16628</td>
+</tr>
+<tr>
+<td>Age 41-50 y:</td>
+<td>US$ 18343</td>
+</tr>
+<tr>
+<td>Age 51-60 y:</td>
+<td>US$ 19151</td>
+</tr>
+<tr>
+<td>Age 61-70 y:</td>
+<td>US$ 16814</td>
+</tr>
+<tr>
+<td>Age 71-80 y:</td>
+<td>US$ 19237</td>
+</tr>
+</tbody>
+</table><br>
+Does not include participant co-payments! 28% of CD patients accounted for 80% of costs (drivers: anti-TNF, hospitalization). Anti-TNF accounted for 30%, and other medications for 16% of total cost. Cost of CD correlated with cost of co-morbidities. 55% of all patients had co-morbidities (<a href='https://journals.lww.com/ajg/Abstract/2016/01000/Health_Insurance_Paid_Costs_and_Drivers_of_Costs.6.aspx' target='_blank'>Park 2015</a>).<br><br>
+
+A 2007 to 2016 cohort of prevalent IBD cases had the following mean annual disease-associated costs. <br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""100"">&nbsp;</td>
+<td width=""100""><b>IBD</b></td>
+<td width=""100""><b>Crohn's Disease</b></td>
+<td width=""100""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>2008</td>
+<td>US$ 22000</td>
+<td>~</td>
+<td>~</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>US$ 30000</td>
+<td>~</td>
+<td>~</td>
+</tr>
+<tr>
+<td>Year 1:</td>
+<td>~</td>
+<td>US$ 30000</td>
+<td>US$ 25000</td>
+</tr>
+<tr>
+<td>Year 10:</td>
+<td>~</td>
+<td>US$ 38000</td>
+<td>US$ 15000</td>
+</tr>
+</tbody>
+</table><br>
+Patient co-payments were partially included. Data extrapolated from graphs. Predictors of higher costs: age <18 y or >65 y, biologics, and CD diagnosis (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534391/' target='_blank'>Park 2020</a>).<br><br>
+
+Cohen: A cohort of ulcerative colitis patients observed between 2005 and 2013 had the following mean annual disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+  <td width=""125""><b>UC (All Cases)</b></td>
+  <td width=""125""><b>UC (Moderate-severe)</b></td>
+</tr>
+<tr>
+<td>Total direct:</td>
+<td>US$ 15378</td>
+<td>US$ 22874</td>
+</tr>
+<tr>
+<td>Hospitalization:</td>
+<td>US$ 4078</td>
+<td>US$ 7357</td>
+</tr>
+<tr>
+<td>Outpatients:</td>
+<td>US$ 6861</td>
+<td>US$ 9245</td>
+</tr>
+<tr>
+<td>Medication:</td>
+<td>US$ 4063</td>
+<td>US$ 5741</td>
+</tr>
+</tbody>
+</table><br>
+(<a href='https://www.tandfonline.com/doi/full/10.3111/13696998.2015.1021353' target='_blank'>Cohen 2015</a>)<br><br>
+
+When compared with controls, a ulcerative colitis cohort followed between 1999 and 2017 had the following mean annual disease-associated costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+  <td width=""125""><b>Ulcerative Colitis</b></td>
+  <td width=""125""><b>Controls</b></td>
+</tr>
+<tr>
+<td>Medical and pharmacy:</td>
+<td>US$ 18198</td>
+<td>US$ 7170</td>
+</tr>
+</tbody>
+</table><br>
+(<a href='tandfonline.com/doi/full/10.1080/03007995.2020.1771293' target='_blank'>Pilon 2020</a>).</p>","<p style=""font-size: 125%""><b>National:</b> A 2007 to 2016 cohort of prevalent IBD cases had the following mean annual societal costs.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+  <td width=""125""><b>IBD</b></td>
+</tr>
+<tr>
+<td>Loss of wages:</td>
+<td>US$ 3000</td>
+</tr>
+<tr>
+<td>Out-of-pocket expenses:</td>
+<td>US$ 2213</td>
+</tr>
+</tbody>
+</table><br>
+A Human Captial approach was used with average wages derived from the Bureau of Labour Statistics. IBD patients lost more in earnings than controls (<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534391/' target='_blank'>Park 2020</a>).<br><br>
+
+A 2005 to 2013 cohort of ulcerative colitis patients had the following mean annual disease-associated societal costs.<br>
+<table width=""400"">
+<tbody>
+<tr>
+<td width=""140"">&nbsp;</td>
+  <td colspan=""2"" width=""130""><b>All Cases</b></td>
+  <td colspan=""2"" width=""130""><b>Moderate-Severe</b></td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>UC</td>
+<td>Controls</td>
+<td>UC</td>
+<td>Controls</td>
+</tr>
+<tr>
+<td>Total indirect:</td>
+<td>US$ 4125</td>
+<td>US$ 1961</td>
+<td>US$ 5666</td>
+<td>US$ 1960</td>
+</tr>
+<tr>
+<td>Disability:</td>
+<td>US$ 1727</td>
+<td>US$ 829</td>
+<td>US$ 2713</td>
+<td>US$ 772</td>
+</tr>
+<tr>
+<td>Absenteeism:</td>
+<td>US$ 2376</td>
+<td>US$ 1082</td>
+<td>US$ 3071</td>
+<td>US$ 1128</td>
+</tr>
+</tbody>
+</table><br>
+A Human Capital approach was used that accounted for comorbidities. Direct costs greatly exceeded indirect costs in UC. Indirect costs higher in UC than controls (<a href='https://www.tandfonline.com/doi/full/10.3111/13696998.2015.1021353' target='_blank'>Cohen 2015</a>).<br><br>
+
+An ulcerative colitis cohort observed from 1999 to 2017 had the following mean annual costs related to disability and absenteeism.<br>
+<table width=""275"">
+<tbody>
+<tr>
+<td width=""150"">&nbsp;</td>
+<td width=""125""><b>Ulcerative Colitis</b></td>
+</tr>
+<tr>
+<td>Total:</td>
+<td>US$ 5307</td>
+</tr>
+<tr>
+<td>Controls:</td>
+<td>US$ 3165</td>
+</tr>
+<tr>
+<td>Surgery:</td>
+<td>US$ 17343</td>
+</tr>
+<tr>
+<td>On opiates:</td>
+<td>US$ 18591</td>
+</tr>
+<tr>
+<td>Biologics:</td>
+<td>US$ 11898</td>
+</tr>
+<tr>
+<td>Depression:</td>
+<td>US$ 8640</td>
+</tr>
+<tr>
+<td>Moderate-severe:</td>
+<td>US$ 9720</td>
+</tr>
+</tbody>
+</table>
+Human capital approach. Co-morbidities included. Direct healthcare costs higher in UC than controls. Indirect costs higher in UC than controls, and much higher in selected UC subgroups. Absenteeism driven mostly by visits to physicians.  Opioids used in 68% of UC. (<a href='tandfonline.com/doi/full/10.1080/03007995.2020.1771293' target='_blank'>Pilon 2020</a>).</p>","<p>References: <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613430/' target='_blank'>Kappelman 2008</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2613430/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2962765/' target='_blank'>Kappelman 2011</a>, <a href='https://www.tandfonline.com/doi/full/10.3111/13696998.2015.1021353' target='_blank'>Cohen 2015</a>, <a href='https://journals.lww.com/ajg/Abstract/2016/01000/Health_Insurance_Paid_Costs_and_Drivers_of_Costs.6.aspx' target='_blank'>Park 2015</a>, <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7534391/' target='_blank'>Park 2020</a>, <a href='tandfonline.com/doi/full/10.1080/03007995.2020.1771293' target='_blank'>Pilon 2020</a></p>",USD,,CP,"<p style=""font-size: 125%"">Epidemiological stage: prevalence equilibrium</p>",major developed,"<p style=""font-size: 125%"">Country status: major developed</p>",,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
+24,West Europe,NA,,region,"<p style=""font-size: 150%""><b>Country Name</b></p>",,NA,NA,<p>References: <a href='' target='_blank'>Reference</a></p>,,,NA,NA,NA,NA,,,,"<p style=""font-size: 125%"">Overall Cost: </p>","<p style=""font-size: 125%"">Annual Cost of Crohn's Disease: </p>","<p style=""font-size: 125%"">Annual Cost of Ulcerative Colitis: </p>",,,,,,
